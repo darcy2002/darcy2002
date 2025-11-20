@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Devanshi Garg - https://devanshigarg2002@gmail.com
-
+# 👋 Hi, I'm Devanshi Garg 
+<a href="mailto: devanshigarg2002@gmail.com"></a>
 **Backend Engineer** with experience in Java, Spring Boot, PL/SQL, PostgreSQL, API development, automation, and production support. Passionate about building scalable backend systems and solving real-world engineering problems.
 
 ---

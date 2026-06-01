@@ -2,9 +2,9 @@
 
 📫 devanshigarg2002@gmail.com · 🌐 [Portfolio](https://devanshi-portfolio-five.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/)
 
-**Full-Stack Engineer** building production web apps and AI-powered features. ~2 years across **React, Next.js, TypeScript, Node.js, PostgreSQL**, currently shipping an AI-driven student retention platform on a Micro Frontend architecture.
+**Full-Stack Engineer** building production web apps and AI-powered features. 3 years across **React, Next.js, TypeScript, Node.js, PostgreSQL**, currently shipping an AI-driven student retention platform on a Micro Frontend architecture.
 
-I like building real products with LLMs — context pipelines, agentic tool-use, structured outputs, provider abstractions, fallback logic. The engineering side of AI, not just the prompt.
+I like building real products with LLMs, context pipelines, agentic tool-use, structured outputs, provider abstractions, fallback logic. The engineering side of AI, not just the prompt.
 
 ---
 
@@ -29,7 +29,7 @@ Telegram bot that orders from Swiggy in natural language. Claude orchestrates mu
 `Node · Claude API · MCP · Telegram Bot API`
 
 **[Pulse — Chat Intelligence](https://github.com/darcy2002/Chat-Intelligence)** · [Live](https://pulse-bay-eight.vercel.app)
-Chat app that classifies every user message by intent and sentiment. Pluggable LLM provider layer (Claude / OpenAI / Grok / Groq / rule-based fallback) — one-line env switch. Structured outputs guarantee schema-valid responses; graceful fallback keeps the conversation alive on any failure.
+Chat app that classifies every user message by intent and sentiment. Pluggable LLM provider layer (Claude / OpenAI / Grok / Groq / rule-based fallback), one-line env switch. Structured outputs guarantee schema-valid responses; graceful fallback keeps the conversation alive on any failure.
 `Node · Express · React · TypeScript · Tailwind · Zod`
 
 **[Devanshi's Agent — Voice AI Assistant](https://github.com/darcy2002/devanshi-support-agent)**

@@ -20,6 +20,9 @@ I like building real products with LLMs, context pipelines, agentic tool-use, st
 
 ## 🚀 Featured Projects
 
+
+**[skillrank — Quality Layer for AI Agent Skills](https://github.com/darcy2002/SkillStack)** · [Docs](https://skillrank.mintlify.app) · [npm](https://www.npmjs.com/package/skillrank) CLI that tests, bundles, and syncs agent skills across every coding agent (Claude Code, Cursor, Codex, +50 more). Benchmarks each skill 0–100 using Claude as a blind judge — runs each test prompt with and without the skill and scores the delta, so you see which skills actually help vs. quietly hurt. Bundles skills into shareable stacks and reconciles drift across agents. `TypeScript · Node · Claude API · ESM · Mintlify`
+
 **[Pinged — AI Outreach Dashboard](https://github.com/darcy2002/Ping-ed)** · [Live](https://ping-ed.vercel.app) · [Video](https://www.loom.com/share/ba04d0e2919744c2a42245e780521c67)
 Full-stack dashboard that writes hyper-personalized cold outreach for sales prospects. Two-phase AI: sources (URLs, LinkedIn screenshots, GitHub, text) are scraped + enriched once via vision/LLM; generation only stitches the ready context. Provider gateway routes between Claude (via OpenRouter) and Gemini with retry/fallback. Handles reply threads end-to-end.
 `Next.js · TypeScript · Postgres · Drizzle · Better Auth · Claude · Gemini · Jina Reader · Tailwind · shadcn/ui`
